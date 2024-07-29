@@ -1,4 +1,4 @@
 # musicat25
-login credentials:
-email     : login@gmail.com
+login credentials: <br />
+email     : login@gmail.com <br />
 password  : login123
