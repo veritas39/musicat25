@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "616805143987",
+    "project_id": "musicat25-25",
+    "storage_bucket": "musicat25-25.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616805143987:android:99852920cd461fdbcfe7c6",
+        "android_client_info": {
+          "package_name": "com.example.musicat25"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5QcY13rKilW4bSvuODG_0R9Ojs9_UhKw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
